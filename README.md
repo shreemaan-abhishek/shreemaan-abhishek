@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shreemaan-abhishek/shreemaan-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="./hello.gif" width="710" height="400" /> </p>
