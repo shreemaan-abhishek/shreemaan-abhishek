@@ -19,7 +19,10 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/shreemaan_abhi"><i>shreemaan-abhishek</i></a>.
     I'm a passionate coder who loves building cool stuff.
     <br>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="55" height="55"/>
+<img src="./party-parrot.gif" width="55" height="55"/>
+<!-- ![](https://komarev.com/ghpvc/?username=shreemaan-abhishek) -->
+  <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek"/>
+<img src="./party-parrot-2.gif" width="55" height="55"/>
 </h2>
 
 <h3 align="center">
@@ -59,5 +62,3 @@ Here are some ideas to get you started:
 <a href="https://play.google.com/store/apps/details?id=com.dopedevx.draweasy"> <img src="./draw-easy.png" width="300" height="150" /> </a>
 <a href="https://github.com/shreemaan-abhishek/60-days-of-dsa-bot"> <img src="./bot.png" width="281" height="150" /> </a>
 <a href="https://github.com/shreemaan-abhishek/congratsshower"> <img src="./congo.png" width="281" height="150" /> </a>
-
-![](https://komarev.com/ghpvc/?username=shreemaan-abhishek)
