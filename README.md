@@ -1,5 +1,4 @@
-<!--
-**shreemaan-abhishek/shreemaan-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**shreemaan-abhishek/shreemaan-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,11 +17,15 @@ Here are some ideas to get you started:
   I'm Abhishek, aka 
     <a href="https://twitter.com/shreemaan_abhi"><i>shreemaan-abhishek</i></a>.
     I'm a passionate coder who loves building cool stuff.
-    <br>
-<img src="./party-parrot.gif" width="55" height="55"/>
+    <br><br>
+<img src="./party-parrot.gif" width="31" height="31"/>
+<img src="./party-parrot.gif" width="31" height="31"/>
+<img src="./party-parrot.gif" width="31" height="31"/>
 <!-- ![](https://komarev.com/ghpvc/?username=shreemaan-abhishek) -->
-  <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek"/>
-<img src="./party-parrot-2.gif" width="55" height="55"/>
+  <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek" />
+<img src="./party-parrot-2.gif" width="31" height="31"/>
+<img src="./party-parrot-2.gif" width="31" height="31"/>
+<img src="./party-parrot-2.gif" width="31" height="31"/>
 </h2>
 
 <h3 align="center">
@@ -51,10 +54,11 @@ Here are some ideas to get you started:
 
 ### Libs/Frameworks:
 
+![Android](https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android)
 ![React](https://img.shields.io/badge/-React-078282?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-cbce91?style=for-the-badge&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-ffe77a?style=for-the-badge&logo=Node.js)
-![Nodejs](https://img.shields.io/badge/-ExpressJs-red?style=for-the-badge&logo=Express)
+![ExpressJS](https://img.shields.io/badge/-ExpressJs-red?style=for-the-badge&logo=Express)
 
 
 ### Projects that I am proud of:
