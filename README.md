@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Database:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-97bc62?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-d7a9e3?style=for-the-badge&logo=mysql&logoWidth=30&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-d7a9e3?style=for-the-badge&logo=sqlite&logoColor=black)
 
 ### Libs/Frameworks:
 
