@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+.color-yellow {
+    color: #fef700;
+}
+.container {
+    background-color: #101820;
+    padding: 40px 0 60px;
+    margin: 0 auto 0;
+}
+
+.main {
+    margin: 0 51px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    /* padding-left: 1px; */
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    width: 41%;
+    min-width: 305px;
+
+}
+.image{
+    width: 35%;
+    min-width: 261px;
+}
+.header-text{
+    margin: 0;
+    font-family: 'Open Sans';
+    font-size: 51px;
+}
+.header-desc {
+    font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 21px;
+    margin-bottom: 0;
+}
+
+
