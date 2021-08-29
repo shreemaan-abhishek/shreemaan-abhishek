@@ -33,6 +33,10 @@ body{
     min-width: 305px;
     
 }
+.sub-tagline {
+    margin-top: 30px;
+    font-family: 'Open Sans';
+}
 .image{
     width: 35%;
     min-width: 261px;
