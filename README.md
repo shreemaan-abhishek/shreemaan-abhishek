@@ -11,21 +11,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="./hello.gif" width="532.5" height="300" /> </p>
+<p align="center"> <img src="./media/hello.gif" width="532.5" height="300" /> </p>
 <br>
 <h2 align="center">
   I'm Abhishek, aka 
     <a href="https://twitter.com/shreemaan_abhi"><i>shreemaan-abhishek</i></a>.
     I'm a passionate coder who loves building cool stuff.
     <br><br>
-<img src="./party-parrot.gif" width="31" height="31"/>
-<img src="./party-parrot.gif" width="31" height="31"/>
-<img src="./party-parrot.gif" width="31" height="31"/>
-<!-- ![](https://komarev.com/ghpvc/?username=shreemaan-abhishek) -->
-  <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek" />
-<img src="./party-parrot-2.gif" width="31" height="31"/>
-<img src="./party-parrot-2.gif" width="31" height="31"/>
-<img src="./party-parrot-2.gif" width="31" height="31"/>
+<img src="./media/party-parrot.gif" width="31" height="31"/>
+<img src="./media/party-parrot.gif" width="31" height="31"/>
+<img src="./media/party-parrot.gif" width="31" height="31"/>
+<img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek" />
+<img src="./media/party-parrot-2.gif" width="31" height="31"/>
+<img src="./media/party-parrot-2.gif" width="31" height="31"/>
+<img src="./media/party-parrot-2.gif" width="31" height="31"/>
 </h2>
 
 <h3 align="center">
@@ -63,6 +62,6 @@ Here are some ideas to get you started:
 
 ### Projects that I am proud of:
 <br/>
-<a href="https://play.google.com/store/apps/details?id=com.dopedevx.draweasy"> <img src="./draw-easy.png" width="300" height="150" /> </a>
-<a href="https://github.com/shreemaan-abhishek/60-days-of-dsa-bot"> <img src="./bot.png" width="281" height="150" /> </a>
-<a href="https://github.com/shreemaan-abhishek/congratsshower"> <img src="./congo.png" width="281" height="150" /> </a>
+<a href="https://play.google.com/store/apps/details?id=com.dopedevx.draweasy"> <img src="./media/draw-easy.png" width="300" height="150" /> </a>
+<a href="https://github.com/shreemaan-abhishek/60-days-of-dsa-bot"> <img src="./media/bot.png" width="281" height="150" /> </a>
+<a href="https://github.com/shreemaan-abhishek/congratsshower"> <img src="./media/congo.png" width="281" height="150" /> </a>
