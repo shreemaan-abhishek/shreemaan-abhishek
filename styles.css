@@ -1,17 +1,22 @@
-body{
+body, h1, h2, h3, h4{
     margin: 0;
 }
 
-.color-yellow {
+.text-yellow {
     color: #fef700;
 }
-.container {
+.text-dark {
+    color: #101820;
+}
+.dark-container {
     background-color: #101820;
     /* padding: 40px 0 60px; */
     /* margin: 0 auto 0; */
 }
-
-.header {
+.yellow-container {
+    background-color: #fef700;
+}
+.navbar {
     padding-bottom: 11px;
     box-shadow: 0 0 18px 0 #000000;
     position: fixed;
@@ -41,8 +46,7 @@ body{
     width: 35%;
     min-width: 261px;
 }
-.header-text{
-    margin: 0;
+.navbar-text{
     padding: 10px 0 0 30px;
     font-family: 'Pacifico';
     font-size: 25px;
@@ -52,7 +56,6 @@ body{
     font-family: 'Open Sans';
     /* font-weight: 100; */
     font-size: 39px;
-    margin: 0;
 }
 
 @media screen and (max-width: 1096px) {
