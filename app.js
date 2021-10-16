@@ -1,4 +1,3 @@
-
 var canvasElement = undefined
 const topDiv = document.querySelector('.top')
 
