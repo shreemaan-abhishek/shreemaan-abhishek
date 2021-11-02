@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </h3>
 <h4 align="center" >
   <a href="https://stackoverflow.com/users/12980866/shreemaan-abhishek">
-    <i> A geek, ambivert, and a workaholic person who thinks sarcasm is seriously important.</i>
+    <i> A geeky ambivert, and a workaholic person who thinks sarcasm is seriously important.</i>
   </a>
 </h4>
 
