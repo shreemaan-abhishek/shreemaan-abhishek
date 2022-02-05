@@ -28,13 +28,16 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  I'm exploring web technologies as of now and I can guide you on Mobile Development, especially for Native Android Development. And... oh yea, here's my tagline:
+  Technically experienced in Native Android Development, I have some knowledge of full stack development and I am currently exploring cloud-native tech, Distributed Systems, and DevOps stuff. And... oh yea, here's my tagline:
 </h3>
 <h4 align="center" >
   <a href="https://stackoverflow.com/users/12980866/shreemaan-abhishek">
     <i> A geeky ambivert, and a workaholic person who thinks sarcasm is seriously important.</i>
   </a>
 </h4>
+<h3 align="center">
+  P.S: I am very passionate about maintainability, scalability and modularity in code.
+</h3>
 
 
 ## Tech Stack:
