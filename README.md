@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  Technically experienced in Native Android Development, I have some knowledge of full stack development and I am currently exploring cloud-native tech, Distributed Systems, and DevOps stuff. And... oh yea, here's my tagline:
+  I am a passion driven coder and I especially love doing deep dives into cloud-native tech. I love building cool stuff and contributing to open source. And... oh yea, here's my tagline:
 </h3>
 <h4 align="center" >
   <a href="https://stackoverflow.com/users/12980866/shreemaan-abhishek">
@@ -39,31 +39,19 @@ Here are some ideas to get you started:
   P.S: I am very passionate about maintainability, scalability and modularity in code.
 </h3>
 
+#
+#
+#
 
-## Tech Stack:
-### Languages: 
-![Java](https://img.shields.io/badge/-java-ee2737?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-kotlin-766DB2?style=for-the-badge&logo=kotlin&logoColor=violet)
-![JavaScript](https://img.shields.io/badge/-JavaScript-422057?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+<h3 align="center">
+  Here is my <a href="https://stackoverflow.com/users/12980866/shreemaan-abhishek">resume</a>
+</h3>
 
-### Database:
+#
+#
+#
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-97bc62?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-d7a9e3?style=for-the-badge&logo=sqlite&logoColor=black)
-
-### Libs/Frameworks:
-
-![Android](https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=android)
-![React](https://img.shields.io/badge/-React-078282?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-cbce91?style=for-the-badge&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-ffe77a?style=for-the-badge&logo=Node.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJs-red?style=for-the-badge&logo=Express)
-
-
-### Projects that I am proud of:
+### Projects that I am proud of (to be updated soon):
 <br/>
 <a href="https://play.google.com/store/apps/details?id=com.dopedevx.draweasy"> <img src="./media/draw-easy.png" width="300" height="150" /> </a>
 <a href="https://github.com/shreemaan-abhishek/60-days-of-dsa-bot"> <img src="./media/bot.png" width="281" height="150" /> </a>
