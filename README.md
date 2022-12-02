@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center">
-  I am a passion driven coder and I especially love doing deep dives into cloud-native tech. I love building cool stuff and contributing to open source. And... oh yea, here's my tagline:
+  I especially love doing deep dives into cloud-native tech, building cool stuff and contributing to open source. And... oh yea, here's my tagline:
 </h3>
 <h4 align="center" >
   <a href="https://stackoverflow.com/users/12980866/shreemaan-abhishek">
