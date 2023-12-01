@@ -51,8 +51,3 @@ Here are some ideas to get you started:
 #
 #
 
-### Projects that I am proud of (to be updated soon):
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.dopedevx.draweasy"> <img src="./media/draw-easy.png" width="300" height="150" /> </a>
-<a href="https://github.com/shreemaan-abhishek/60-days-of-dsa-bot"> <img src="./media/bot.png" width="281" height="150" /> </a>
-<a href="https://github.com/shreemaan-abhishek/congratsshower"> <img src="./media/congo.png" width="281" height="150" /> </a>
