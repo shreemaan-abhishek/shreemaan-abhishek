@@ -39,15 +39,5 @@ Here are some ideas to get you started:
   P.S: I am very passionate about maintainability, scalability and modularity in code.
 </h3>
 
-#
-#
-#
 
-<h3 align="center">
-  Here is my <a href="https://docs.google.com/document/d/1BQNgC7MR8g6gtebwhKDcB3A5dSL3ggK4/edit">resume</a>
-</h3>
-
-#
-#
-#
 
