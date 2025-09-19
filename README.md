@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 # shreemaan abhishek
 
-- software engineer [invideo](https://invideo.io).
-- maintainer and PMC member of [apache apisix](https://github.com/apache/apisix).
+- software engineer [@invideo](https://invideo.io).
+- maintainer and PMC member [@apache apisix](https://github.com/apache/apisix).
 - writes elixir, go, lua, c and little bit of rust.
 - loves distributed systems, systems programming and everything between L4-L7.
 - opensource is <3
