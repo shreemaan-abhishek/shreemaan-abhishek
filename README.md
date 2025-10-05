@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 # shreemaan abhishek
 
 - software engineer [@invideo](https://invideo.io).
-- maintainer and PMC member [@apache apisix](https://github.com/apache/apisix).
+- maintainer and PMC member [@apache apisix](https://github.com/apache/apisix) api gateway.
+- loves distributed systems, systems programming, hpc, computer networking, etc.
 - writes elixir, go, lua, c and little bit of rust.
-- loves distributed systems, systems programming and computer networking.
+- other stuff i have worked with:
+  -  writing nginx modules
+  -  [etcd](https://github.com/etcd-io/etcd)
+  -  k8s policy engine [kyverno](https://github.com/kyverno/kyverno/)
+  -  android (kotlin, java)
+  -  js/ts
 - opensource is <3
 
 <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek" />
