@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - other stuff i have worked with:
   -  writing [nginx modules](https://github.com/api7/apisix-nginx-module/pull/98)
   -  performance engineering; ptrace, strace, wrk, flamegraphs, systemtap, gdb, valgrind, etc.
-  -  [etcd](https://github.com/etcd-io/etcd)
-  -  k8s policy engine [kyverno](https://github.com/kyverno/kyverno/)
+  -  kubernetes datastore - [etcd](https://github.com/etcd-io/etcd)
+  -  kubernetes policy engine - [kyverno](https://github.com/kyverno/kyverno/)
   -  android (kotlin, java)
   -  js/ts
 - opensource is <3
