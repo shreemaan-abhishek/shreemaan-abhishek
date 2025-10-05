@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - loves distributed systems, systems programming, hpc, computer networking, etc.
 - writes elixir, go, lua, c and little bit of rust.
 - other stuff i have worked with:
-  -  writing nginx modules
+  -  writing [nginx modules](https://github.com/api7/apisix-nginx-module/pull/98)
   -  [etcd](https://github.com/etcd-io/etcd)
   -  k8s policy engine [kyverno](https://github.com/kyverno/kyverno/)
   -  android (kotlin, java)
