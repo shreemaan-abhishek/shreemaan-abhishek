@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - software engineer [@invideo](https://invideo.io).
 - maintainer and PMC member [@apache apisix](https://github.com/apache/apisix).
 - writes elixir, go, lua, c and little bit of rust.
-- loves distributed systems, systems programming and everything between L4-L7.
+- loves distributed systems, systems programming and computer networking.
 - opensource is <3
 
 <img src="https://komarev.com/ghpvc/?username=shreemaan-abhishek" />
