@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # shreemaan abhishek
 
-- software engineer [@invideo](https://invideo.io).
+- software engineer [@api7](https://api7.ai).
 - maintainer and PMC member [@apache apisix](https://github.com/apache/apisix) api gateway.
 - loves distributed systems, systems programming, hpc, computer networking, etc.
 - writes elixir, go, lua, c and little bit of rust.
